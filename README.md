@@ -1,4 +1,4 @@
-# Challenge-13
+# ***Alphabet Soup Venture***
 
 In challenge 13 we try to predict the success of startups from the help of Alphabet Soup and its gift of venture funding. We use a csv file with over 30,000 entries of data to teach our model and give it the best chance to successfully predict the future of other startups.
 
